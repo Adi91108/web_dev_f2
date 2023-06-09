@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.header{
+    background-color: #333333;
+    color: white;
+    padding: 10px 0px;
+}
